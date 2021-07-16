@@ -1,0 +1,13 @@
+{
+  "name": "rollup-vite-dscc",
+  "version": "1.0.0",
+  "description": "A possible dev and build set-up for DSCC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {"type": "git", "url": "git+https://github.com/jsdbroughton/vite-dscc.git"},
+  "keywords": ["DSCC", "Data Studio", "Vite", "Rollup"],
+  "author": "Jonathon Broughton <@jsdbroughton>",
+  "license": ""
+}
